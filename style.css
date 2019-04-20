@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+}
+
+/* navigation bar */
+.nav-bar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+.nav-bar li{
+	float: left;
+}
+.nav-bar li a:hover{
+	background-color: gray;
+}
+.nav-bar li a{
+	padding: 14px 16px;
+	text-align: center;
+	display: block;
+	color: white;
+	text-decoration: none;
+	
+}
+
+.evidence{
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#dyingEarthImage{
+	width: 20%;
+}
+
+.body{
+	margin-right: 20%;
+	margin-left: 20%;
+}
